@@ -28,6 +28,11 @@ FIXME: listing of options this app accepts.
 ### That You Think
 ### Might be Useful
 
+### Todo
+
+- Namespace macro
+- Write tests
+
 ## License
 
 Copyright © 2020 FIXME
